@@ -1,0 +1,1 @@
+[{"name":"cocaina","price":20.0,"type":"ProductoNormal","stock":200,"ingredientes":[]},{"name":"berenjena","price":5.0,"type":"ProductoNormal","stock":200,"ingredientes":[]},{"name":"limones","price":2.0,"type":"ProductoNormal","stock":792031,"ingredientes":[]},{"name":"bacalao salado","price":500.0,"type":"ProductoNormal","stock":0,"ingredientes":[{"nombre":"proteinas"}]}]

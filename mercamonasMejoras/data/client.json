@@ -1,0 +1,59 @@
+{
+  "0001": {
+    "dni": "0001",
+    "nombre": "alan",
+    "monederos": [
+      {
+        "name": "ale",
+        "money": 9.998E8
+      }
+    ],
+    "type": "ClienteNormal",
+    "alergenos": [
+      {
+        "nombre": "proteinas"
+      }
+    ],
+    "carrito": [],
+    "buyHistory": [
+      [
+        {
+          "producto": {
+            "name": "bacalao salado",
+            "price": 500.0,
+            "type": "ProductoNormal",
+            "stock": 5,
+            "ingredientes": [
+              {
+                "nombre": "proteinas"
+              }
+            ]
+          },
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "producto": {
+            "name": "limones",
+            "price": 2.0,
+            "type": "ProductoNormal",
+            "stock": 892031,
+            "ingredientes": []
+          },
+          "quantity": 100000
+        }
+      ]
+    ]
+  },
+  "0002": {
+    "descuento": 25.0,
+    "dni": "0002",
+    "nombre": "mama",
+    "monederos": [],
+    "type": "ClienteDescuento",
+    "alergenos": [],
+    "carrito": [],
+    "buyHistory": []
+  }
+}
