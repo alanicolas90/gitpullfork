@@ -1,8 +1,8 @@
 
 t
-java:S1104"RMake config a static final constant or non-public and provide accessors if needed.(΅λλΰωÿÿÿÿ8™–““ϋ/
+java:S1104"RMake config a static final constant or non-public and provide accessors if needed.(΅λλΰωÿÿÿÿ8σ§Φ™„0
 N
-java:S1444",Make this "public static config" field final(΅λλΰωÿÿÿÿ8™–““ϋ/
+java:S1444",Make this "public static config" field final(΅λλΰωÿÿÿÿ8σ§Φ™„0
 V
 java:S1118
-":Add a private constructor to hide the implicit public one.(µύ’8Ϊ“ϋ/
+":Add a private constructor to hide the implicit public one.(µύ’8ώ§Φ™„0

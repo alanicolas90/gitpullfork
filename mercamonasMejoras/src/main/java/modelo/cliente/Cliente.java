@@ -2,7 +2,6 @@ package modelo.cliente;
 
 import lombok.Getter;
 import lombok.Setter;
-import modelo.Clone;
 import modelo.producto.Ingrediente;
 import modelo.constantes.Constantes;
 
